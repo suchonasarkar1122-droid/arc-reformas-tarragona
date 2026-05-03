@@ -30,18 +30,6 @@ export const metadata: Metadata = {
   },
   description:
     "Empresa de reformas integrales en Tarragona. Trabajamos en edificios del centro histórico, pisos del Eixample y bloques modernos. Presupuesto sin compromiso. Llámanos al 877 278 165.",
-  keywords: [
-    "reformas Tarragona",
-    "reformas integrales Tarragona",
-    "reformas cocinas Tarragona",
-    "reformas baños Tarragona",
-    "reformas pisos Tarragona",
-    "reformas locales Tarragona",
-    "empresa de reformas Tarragona",
-    "reformas Part Alta",
-    "reformas Eixample Tarragona",
-    "reformas Tarragonès",
-  ],
   authors: [{ name: "ARC Reformas Tarragona" }],
   creator: "ARC Reformas Tarragona",
   publisher: "ARC Reformas Tarragona",
