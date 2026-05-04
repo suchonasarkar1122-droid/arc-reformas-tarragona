@@ -128,7 +128,7 @@ export default function CookiesPage() {
               6. Contacto
             </h2>
             <p className="text-subtitle leading-relaxed">
-              Para cualquier consulta sobre esta Política de Cookies, escríbenos a <a href="mailto:info@arcreformastarragona.es" className="text-accent underline">info@arcreformastarragona.es</a> o llama al 877 278 165.
+              Para cualquier consulta sobre esta Política de Cookies, escríbenos a <a href="mailto:info@arcreformastarragona.es" className="text-accent underline">info@arcreformastarragona.es</a> o llama al 877 278 109.
             </p>
           </div>
         </div>

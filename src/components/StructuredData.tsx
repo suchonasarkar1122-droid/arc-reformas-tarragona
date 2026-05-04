@@ -7,7 +7,7 @@ export default function StructuredData() {
     url: "https://arcreformastarragona.es",
     logo: "https://arcreformastarragona.es/images/hero-reforma-tarragona-clasica.webp",
     image: "https://arcreformastarragona.es/images/hero-reforma-tarragona-clasica.webp",
-    telephone: "+34877278165",
+    telephone: "+34877278109",
     email: "info@arcreformastarragona.es",
     priceRange: "€€",
     address: {

@@ -7,7 +7,7 @@ const CTAForm = dynamic(() => import("@/components/CTAForm"));
 export const metadata: Metadata = {
   title: "Contacto y valoración técnica | ARC Reformas Tarragona",
   description:
-    "Visita técnica sin coste para tu reforma en Tarragona, Reus, Vila-seca, Salou, La Canonja o Constantí. Llámanos al 877 278 165 o escríbenos.",
+    "Visita técnica sin coste para tu reforma en Tarragona, Reus, Vila-seca, Salou, La Canonja o Constantí. Llámanos al 877 278 109 o escríbenos.",
   alternates: { canonical: "/contacto" },
   openGraph: {
     title: "Contacto · ARC Reformas Tarragona",
@@ -68,8 +68,8 @@ export default function ContactoPage() {
                   </div>
                   <h3 className="font-display font-bold text-dark text-base">Teléfono</h3>
                 </div>
-                <a href="tel:+34877278165" className="font-display font-semibold text-accent text-lg hover:underline">
-                  877 278 165
+                <a href="tel:+34877278109" className="font-display font-semibold text-accent text-lg hover:underline">
+                  877 278 109
                 </a>
                 <p className="text-subtitle text-sm mt-1">Lunes a viernes: 8:00 — 20:00</p>
               </div>

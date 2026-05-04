@@ -9,7 +9,7 @@ import ServiceSchema from "@/components/ServiceSchema";
 export const metadata: Metadata = {
   title: "Reformas de Cocinas en Tarragona · Galerías reabiertas",
   description:
-    "Reformamos cocinas en pisos del Eixample tarraconense, abriendo galerías cerradas y conectando con el comedor. Acabados sobrios, isla central si lo permite la finca. 877 278 165.",
+    "Reformamos cocinas en pisos del Eixample tarraconense, abriendo galerías cerradas y conectando con el comedor. Acabados sobrios, isla central si lo permite la finca. 877 278 109.",
   alternates: { canonical: "/servicios/reformas-cocinas" },
   openGraph: {
     title: "Reformas de Cocinas en Tarragona | ARC Reformas",
@@ -147,8 +147,8 @@ export default function ReformasCocinasPage() {
             <Link href="/contacto" className="inline-flex items-center gap-2 bg-dark text-white px-8 py-4 rounded-full font-display font-bold text-[15px] hover:bg-dark/80 transition-colors">
               Pedir valoración <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M5 12h14M12 5l7 7-7 7" /></svg>
             </Link>
-            <a href="tel:+34877278165" className="inline-flex items-center gap-2.5 border-2 border-white/30 text-white px-7 py-4 rounded-full font-display font-bold text-[15px] hover:bg-white/10 transition-colors">
-              877 278 165
+            <a href="tel:+34877278109" className="inline-flex items-center gap-2.5 border-2 border-white/30 text-white px-7 py-4 rounded-full font-display font-bold text-[15px] hover:bg-white/10 transition-colors">
+              877 278 109
             </a>
           </div>
         </div>

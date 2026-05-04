@@ -16,7 +16,7 @@ export default function ServiceSchema({ name, description, url, image }: Service
     provider: {
       "@type": "HomeAndConstructionBusiness",
       name: "ARC Reformas Tarragona",
-      telephone: "+34877278165",
+      telephone: "+34877278109",
       address: {
         "@type": "PostalAddress",
         streetAddress: "Carrer de la Reina Maria Cristina, 27",

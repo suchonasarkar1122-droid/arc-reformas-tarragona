@@ -9,7 +9,7 @@ import ServiceSchema from "@/components/ServiceSchema";
 export const metadata: Metadata = {
   title: "Reformas Integrales en Tarragona · Llave en mano",
   description:
-    "Reforma integral de viviendas en Tarragona: pisos del Eixample, fincas catalogadas de la Part Alta y bloques modernos. Memoria valorada y plantilla propia. 877 278 165.",
+    "Reforma integral de viviendas en Tarragona: pisos del Eixample, fincas catalogadas de la Part Alta y bloques modernos. Memoria valorada y plantilla propia. 877 278 109.",
   alternates: { canonical: "/servicios/reformas-integrales" },
   openGraph: {
     title: "Reformas Integrales en Tarragona | ARC Reformas",
@@ -149,8 +149,8 @@ export default function ReformasIntegralesPage() {
             <Link href="/contacto" className="inline-flex items-center gap-2 bg-dark text-white px-8 py-4 rounded-full font-display font-bold text-[15px] hover:bg-dark/80 transition-colors">
               Pedir visita técnica <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M5 12h14M12 5l7 7-7 7" /></svg>
             </Link>
-            <a href="tel:+34877278165" className="inline-flex items-center gap-2.5 border-2 border-white/30 text-white px-7 py-4 rounded-full font-display font-bold text-[15px] hover:bg-white/10 transition-colors">
-              877 278 165
+            <a href="tel:+34877278109" className="inline-flex items-center gap-2.5 border-2 border-white/30 text-white px-7 py-4 rounded-full font-display font-bold text-[15px] hover:bg-white/10 transition-colors">
+              877 278 109
             </a>
           </div>
         </div>

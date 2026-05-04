@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     template: "%s | ARC Reformas Tarragona",
   },
   description:
-    "Empresa de reformas integrales en Tarragona. Trabajamos en edificios del centro histórico, pisos del Eixample y bloques modernos. Presupuesto sin compromiso. Llámanos al 877 278 165.",
+    "Empresa de reformas integrales en Tarragona. Trabajamos en edificios del centro histórico, pisos del Eixample y bloques modernos. Presupuesto sin compromiso. Llámanos al 877 278 109.",
   authors: [{ name: "ARC Reformas Tarragona" }],
   creator: "ARC Reformas Tarragona",
   publisher: "ARC Reformas Tarragona",

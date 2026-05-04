@@ -126,7 +126,7 @@ export default function HeroForm() {
         </label>
 
         {error && (
-          <p className="text-red-400 text-xs text-center">No hemos podido enviar la petición. Vuelve a intentarlo o llama al 877 278 165.</p>
+          <p className="text-red-400 text-xs text-center">No hemos podido enviar la petición. Vuelve a intentarlo o llama al 877 278 109.</p>
         )}
 
         <div className="flex gap-2.5 mt-1">

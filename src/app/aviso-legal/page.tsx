@@ -30,7 +30,7 @@ export default function AvisoLegalPage() {
             <ul className="list-disc pl-6 space-y-1 text-subtitle mt-3">
               <li><strong>Denominación comercial:</strong> ARC Reformas Tarragona</li>
               <li><strong>Domicilio social:</strong> Carrer de la Reina Maria Cristina, 27, 43002 Tarragona</li>
-              <li><strong>Teléfono:</strong> 877 278 165</li>
+              <li><strong>Teléfono:</strong> 877 278 109</li>
               <li><strong>Correo electrónico:</strong> info@arcreformastarragona.es</li>
               <li><strong>Sitio web:</strong> arcreformastarragona.es</li>
             </ul>

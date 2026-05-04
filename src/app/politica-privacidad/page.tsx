@@ -25,7 +25,7 @@ export default function PoliticaPrivacidadPage() {
             <ul className="list-disc pl-6 space-y-1 text-subtitle">
               <li><strong>Responsable:</strong> ARC Reformas Tarragona</li>
               <li><strong>Domicilio:</strong> Carrer de la Reina Maria Cristina, 27, 43002 Tarragona</li>
-              <li><strong>Teléfono:</strong> 877 278 165</li>
+              <li><strong>Teléfono:</strong> 877 278 109</li>
               <li><strong>Correo:</strong> info@arcreformastarragona.es</li>
             </ul>
           </div>
