@@ -20,8 +20,8 @@ export default function StructuredData() {
     },
     geo: {
       "@type": "GeoCoordinates",
-      latitude: 41.1189,
-      longitude: 1.2445,
+      latitude: 41.1187653,
+      longitude: 1.2528495,
     },
     areaServed: [
       { "@type": "City", name: "Tarragona" },

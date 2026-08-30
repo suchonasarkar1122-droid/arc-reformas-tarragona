@@ -102,9 +102,17 @@ export default function Footer() {
                     <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z" />
                     <circle cx="12" cy="10" r="3" />
                   </svg>
-                  C/ Reina Maria Cristina, 27, 43002 Tarragona
+                  Carrer de la Reina Maria Cristina, 27, 43002 Tarragona
                 </span>
               </div>
+            </div>
+          </div>
+
+          {/* Google Maps — ficha verificada */}
+          <div className="flex flex-col gap-4" data-map-listing="0x12a3fdaab5f1d41f:0x5d3ccbac7de624d2">
+            <h3 className="font-body font-bold text-xs uppercase tracking-[0.2em] text-accent">Dónde estamos</h3>
+            <div className="overflow-hidden rounded-[14px] border border-white/10 bg-white/5">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3005.721854679456!2d1.2528495!3d41.1187653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a3fdaab5f1d41f%3A0x5d3ccbac7de624d2!2sARC%20%7C%20Reformas%20Tarragona!5e0!3m2!1ses!2sfr!4v1788097533720!5m2!1ses!2sfr" title="Ubicación de ARC | Reformas Tarragona en Google Maps" width="100%" height="280" style={{ border: 0, display: "block" }} allowFullScreen loading="lazy" referrerPolicy="strict-origin-when-cross-origin" />
             </div>
           </div>
 
