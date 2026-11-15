@@ -32,20 +32,7 @@ export default function StructuredData() {
     ],
     hasMap: "https://maps.google.com/?cid=6718468685836985554",
     sameAs: ["https://maps.google.com/?cid=6718468685836985554"],
-    openingHoursSpecification: [
-      {
-        "@type": "OpeningHoursSpecification",
-        dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
-        opens: "08:00",
-        closes: "20:00",
-      },
-      {
-        "@type": "OpeningHoursSpecification",
-        dayOfWeek: "Saturday",
-        opens: "09:00",
-        closes: "14:00",
-      },
-    ],
+    openingHoursSpecification: [{"@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], "opens": "08:00", "closes": "20:00"}, {"@type": "OpeningHoursSpecification", "dayOfWeek": "Saturday", "opens": "08:00", "closes": "14:00"}],
   };
 
   const website = {"@context":"https://schema.org","@type":"WebSite","@id":"https://arcreformastarragona.es/#website","url":"https://arcreformastarragona.es","name":"ARC | Reformas Tarragona","inLanguage":"es-ES","publisher":{"@id":"https://arcreformastarragona.es/#business"}};

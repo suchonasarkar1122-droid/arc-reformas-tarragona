@@ -71,7 +71,7 @@ export default function ContactoPage() {
                 <a href="tel:+34877278109" className="font-display font-semibold text-accent text-lg hover:underline">
                   877 278 109
                 </a>
-                <p className="text-subtitle text-sm mt-1">Lunes a viernes: 8:00 — 20:00</p>
+                <p className="text-subtitle text-sm mt-1">Horario: Lunes - Viernes: 8:00 - 20:00 · Sábado: 8:00 - 14:00</p>
               </div>
 
               {/* WhatsApp */}
@@ -146,7 +146,7 @@ export default function ContactoPage() {
                   </li>
                   <li className="flex justify-between">
                     <span className="text-subtitle">Sábado</span>
-                    <span className="font-display font-semibold text-dark">9:00 — 14:00</span>
+                    <span className="font-display font-semibold text-dark">8:00 — 14:00</span>
                   </li>
                   <li className="flex justify-between">
                     <span className="text-subtitle">Domingo</span>
