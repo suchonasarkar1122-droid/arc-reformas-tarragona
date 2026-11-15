@@ -1,11 +1,11 @@
-﻿import type { Metadata } from "next";
+import type { Metadata } from "next";
 import dynamic from "next/dynamic";
 import BreadcrumbSchema from "@/components/BreadcrumbSchema";
 
 const CTAForm = dynamic(() => import("@/components/CTAForm"));
 
 export const metadata: Metadata = {
-  title: "Contacto y valoración técnica | ARC Reformas Tarragona",
+  title: "Contacto y valoración técnica",
   description:
     "Visita técnica sin coste para tu reforma en Tarragona, Reus, Vila-seca, Salou, La Canonja o Constantí. Llámanos al 877 278 109 o escríbenos.",
   alternates: { canonical: "/contacto" },

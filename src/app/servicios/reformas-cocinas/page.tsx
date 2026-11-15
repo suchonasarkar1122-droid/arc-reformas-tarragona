@@ -7,9 +7,9 @@ import BreadcrumbSchema from "@/components/BreadcrumbSchema";
 import ServiceSchema from "@/components/ServiceSchema";
 
 export const metadata: Metadata = {
-  title: "Reformas de Cocinas en Tarragona · Galerías reabiertas",
+  title: "Reformas de Cocinas en Tarragona",
   description:
-    "Reformamos cocinas en pisos del Eixample tarraconense, abriendo galerías cerradas y conectando con el comedor. Acabados sobrios, isla central si lo permite la finca. 877 278 109.",
+    "Reformamos cocinas en pisos del Eixample tarraconense, abriendo galerías cerradas y conectando con el comedor.",
   alternates: { canonical: "/servicios/reformas-cocinas" },
   openGraph: {
     title: "Reformas de Cocinas en Tarragona | ARC Reformas",

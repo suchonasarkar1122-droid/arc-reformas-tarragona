@@ -4,7 +4,7 @@ import HeroService from "@/components/HeroService";
 import BreadcrumbSchema from "@/components/BreadcrumbSchema";
 
 export const metadata: Metadata = {
-  title: "Zonas de servicio · Reformas en Tarragona y el Tarragonès",
+  title: "Zonas de servicio",
   description:
     "ARC Reformas Tarragona atiende también obras en Reus, Vila-seca, Salou, La Canonja y Constantí. Plantilla propia con sede en el Eixample tarraconense.",
   alternates: { canonical: "/zonas" },
@@ -17,8 +17,6 @@ export const metadata: Metadata = {
 };
 
 const zones = [
-  { name: "Reus", slug: "reformas-reus", description: "Capital del Baix Camp. Reformamos en pisos del centro histórico, ensanche modernista y bloques de la zona Mas Iglesias para clientes que prefieren contratar empresa con sede en la capital." },
-  { name: "Vila-seca", slug: "reformas-vila-seca", description: "Atendemos a propietarios de Vila-seca centre y La Pineda que valoran un equipo radicado en Tarragona, sin trayectos largos para visita técnica ni respuesta a incidencias." },
   { name: "Salou", slug: "reformas-salou", description: "Pisos en Salou Centre, Cap Salou y Capellans, especialmente segundas residencias de propietarios que viven habitualmente en Tarragona o Cataluña central." },
   { name: "La Canonja", slug: "reformas-la-canonja", description: "Trabajos en La Canonja centre y Mas dels Frares. Por la cercanía con el casco urbano de Tarragona, podemos visitar la obra varias veces por semana sin coste extra." },
   { name: "Constantí", slug: "reformas-constanti", description: "Reformas en Constantí centre y la zona próxima a Centcelles. Coordinación específica para obras en pisos heredados y casas con elementos antiguos." },

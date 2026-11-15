@@ -7,9 +7,9 @@ import BreadcrumbSchema from "@/components/BreadcrumbSchema";
 import ServiceSchema from "@/components/ServiceSchema";
 
 export const metadata: Metadata = {
-  title: "Reformas de Pisos en Tarragona · Eixample y Part Alta",
+  title: "Reformas de Pisos en Tarragona",
   description:
-    "Renovación completa de pisos en Tarragona: distribución, instalaciones nuevas, pavimento y carpintería. Pisos heredados, segundas residencias y obra nueva personalizable.",
+    "Renovación completa de pisos en Tarragona: distribución, instalaciones nuevas, pavimento y carpintería.",
   alternates: { canonical: "/servicios/reformas-pisos" },
   openGraph: {
     title: "Reformas de Pisos en Tarragona | ARC Reformas",

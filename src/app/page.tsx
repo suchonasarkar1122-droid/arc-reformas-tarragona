@@ -475,8 +475,6 @@ export default function HomePage() {
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             {[
-              { name: "Reus", slug: "reformas-reus" },
-              { name: "Vila-seca", slug: "reformas-vila-seca" },
               { name: "Salou", slug: "reformas-salou" },
               { name: "La Canonja", slug: "reformas-la-canonja" },
               { name: "Constantí", slug: "reformas-constanti" },

@@ -4,9 +4,9 @@ import Link from "next/link";
 import BreadcrumbSchema from "@/components/BreadcrumbSchema";
 
 export const metadata: Metadata = {
-  title: "Cuánto cuesta reformar un piso en Tarragona en 2026",
+  title: { absolute: "Cuánto cuesta reformar un piso en Tarragona en 2026" },
   description:
-    "Rangos por metro cuadrado para reformar un piso en Tarragona en 2026. Pisos del Eixample, casa de pueblo de la Part Alta y bloques modernos. Desglose por partidas.",
+    "Rangos por metro cuadrado para reformar un piso en Tarragona en 2026. Pisos del Eixample, casa de pueblo de la Part Alta y bloques modernos.",
   alternates: { canonical: "/blog/cuanto-cuesta-reformar-piso-tarragona" },
   openGraph: {
     title: "Cuánto cuesta reformar un piso en Tarragona en 2026",

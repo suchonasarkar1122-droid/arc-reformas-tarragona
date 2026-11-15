@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Política de Cookies · ARC Reformas Tarragona",
+  title: "Política de Cookies",
   description: "Política de cookies de ARC Reformas Tarragona. Tipo de cookies utilizadas en el sitio y cómo gestionarlas.",
   alternates: { canonical: "/cookies" },
   robots: { index: true, follow: true },

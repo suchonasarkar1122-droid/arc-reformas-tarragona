@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Política de Privacidad · ARC Reformas Tarragona",
+  title: "Política de Privacidad",
   description: "Política de privacidad de ARC Reformas Tarragona. Tratamiento de datos personales conforme al RGPD y la LOPDGDD.",
   alternates: { canonical: "/politica-privacidad" },
   robots: { index: true, follow: true },

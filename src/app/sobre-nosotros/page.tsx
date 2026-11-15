@@ -6,9 +6,9 @@ import CTAButtons from "@/components/CTAButtons";
 import BreadcrumbSchema from "@/components/BreadcrumbSchema";
 
 export const metadata: Metadata = {
-  title: "Sobre Nosotros · Empresa de reformas en Tarragona",
+  title: "Sobre Nosotros",
   description:
-    "ARC Reformas Tarragona: equipo técnico especializado en pisos del Eixample, fincas catalogadas de la Part Alta y bloques residenciales del Tarragonès. Memoria documentada y plantilla propia.",
+    "ARC Reformas Tarragona: equipo técnico especializado en pisos del Eixample, fincas catalogadas de la Part Alta y bloques residenciales del Tarragonès.",
   alternates: { canonical: "/sobre-nosotros" },
   openGraph: {
     title: "Sobre Nosotros · ARC Reformas Tarragona",

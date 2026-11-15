@@ -4,9 +4,9 @@ import Link from "next/link";
 import BreadcrumbSchema from "@/components/BreadcrumbSchema";
 
 export const metadata: Metadata = {
-  title: "Ayudas a la rehabilitación energética en el Tarragonès en 2026",
+  title: { absolute: "Ayudas a la rehabilitación energética en el Tarragonès en 2026" },
   description:
-    "Subvenciones disponibles en 2026 para reformas energéticas en Tarragona y comarca: Fondos Next Generation, programas de la Generalitat y bonificaciones municipales.",
+    "Subvenciones disponibles en 2026 para reformas energéticas en Tarragona y comarca: Fondos Next Generation, programas de la Generalitat y bonificaciones.",
   alternates: { canonical: "/blog/ayudas-rehabilitacion-energetica-tarragones" },
   openGraph: {
     title: "Ayudas a la rehabilitación energética en el Tarragonès",
@@ -120,6 +120,14 @@ export default function PostAyudas() {
           <h2 className="font-display font-extrabold text-2xl text-dark mt-10 mb-4">Cómo te acompañamos en la tramitación</h2>
           <p className="font-body text-subtitle text-base leading-relaxed mb-6">
             Trabajamos con técnicos colegiados especializados en certificación energética. Te facilitamos el certificado previo y posterior, la memoria justificada, las facturas en formato exigido por la convocatoria y la documentación gráfica del antes y después. Si la finca es comunitaria, asistimos a la junta para explicar el alcance y los plazos a los vecinos.
+          </p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-6">
+            La mejora energética suele aprovecharse para hacer el resto de la obra a la vez. Si vas a cambiar ventanas y aislar, mira también nuestras{" "}
+            <Link href="/servicios/reformas-integrales" className="text-accent font-semibold underline underline-offset-2">reformas integrales en Tarragona</Link>, las{" "}
+            <Link href="/servicios/reformas-pisos" className="text-accent font-semibold underline underline-offset-2">reformas de pisos del Eixample y la Part Alta</Link>{" "}
+            o, si solo quieres actualizar estancias concretas, las{" "}
+            <Link href="/servicios/reformas-banos" className="text-accent font-semibold underline underline-offset-2">reformas de baños</Link> y{" "}
+            <Link href="/servicios/reformas-cocinas" className="text-accent font-semibold underline underline-offset-2">reformas de cocinas en Tarragona</Link>.
           </p>
 
           <div className="bg-accent rounded-2xl p-8 mt-12 text-white">

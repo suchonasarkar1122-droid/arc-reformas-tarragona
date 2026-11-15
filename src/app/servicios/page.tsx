@@ -5,9 +5,9 @@ import HeroService from "@/components/HeroService";
 import BreadcrumbSchema from "@/components/BreadcrumbSchema";
 
 export const metadata: Metadata = {
-  title: "Servicios de reformas en Tarragona · Cocinas, Baños, Pisos y Locales",
+  title: "Servicios de reformas en Tarragona",
   description:
-    "Servicios de reformas en Tarragona y Tarragonès: integrales, cocinas, baños, pisos del Eixample y locales en la Part Alta. Memoria documentada y plantilla propia.",
+    "Servicios de reformas en Tarragona y Tarragonès: integrales, cocinas, baños, pisos del Eixample y locales en la Part Alta.",
   alternates: { canonical: "/servicios" },
   openGraph: {
     title: "Servicios de reformas · ARC Reformas Tarragona",

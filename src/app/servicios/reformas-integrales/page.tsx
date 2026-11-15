@@ -7,9 +7,9 @@ import BreadcrumbSchema from "@/components/BreadcrumbSchema";
 import ServiceSchema from "@/components/ServiceSchema";
 
 export const metadata: Metadata = {
-  title: "Reformas Integrales en Tarragona · Llave en mano",
+  title: "Reformas Integrales en Tarragona",
   description:
-    "Reforma integral de viviendas en Tarragona: pisos del Eixample, fincas catalogadas de la Part Alta y bloques modernos. Memoria valorada y plantilla propia. 877 278 109.",
+    "Reforma integral de viviendas en Tarragona: pisos del Eixample, fincas catalogadas de la Part Alta y bloques modernos. Memoria valorada y plantilla propia.",
   alternates: { canonical: "/servicios/reformas-integrales" },
   openGraph: {
     title: "Reformas Integrales en Tarragona | ARC Reformas",

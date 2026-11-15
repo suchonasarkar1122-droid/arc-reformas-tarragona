@@ -5,7 +5,7 @@ import CTAButtons from "@/components/CTAButtons";
 import BreadcrumbSchema from "@/components/BreadcrumbSchema";
 
 export const metadata: Metadata = {
-  title: "Reformas en La Canonja · Visitas frecuentes desde Tarragona",
+  title: "Reformas en La Canonja",
   description:
     "Reformas en La Canonja centre y Mas dels Frares. Sede en Tarragona ciudad: por proximidad podemos visitar la obra varias veces por semana sin coste extra.",
   alternates: { canonical: "/zonas/reformas-la-canonja" },

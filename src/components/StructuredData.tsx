@@ -3,7 +3,8 @@ export default function StructuredData() {
     "@context": "https://schema.org",
     "@type": ["LocalBusiness", "HomeAndConstructionBusiness", "GeneralContractor"],
     "@id": "https://arcreformastarragona.es/#business",
-    name: "ARC Reformas Tarragona",
+    name: "ARC | Reformas Tarragona",
+    alternateName: "ARC Reformas Tarragona",
     url: "https://arcreformastarragona.es",
     logo: "https://arcreformastarragona.es/images/hero-reforma-tarragona-clasica.webp",
     image: "https://arcreformastarragona.es/images/hero-reforma-tarragona-clasica.webp",
@@ -25,13 +26,12 @@ export default function StructuredData() {
     },
     areaServed: [
       { "@type": "City", name: "Tarragona" },
-      { "@type": "City", name: "Reus" },
-      { "@type": "City", name: "Vila-seca" },
       { "@type": "City", name: "Salou" },
       { "@type": "City", name: "La Canonja" },
       { "@type": "City", name: "Constantí" },
     ],
-    sameAs: [],
+    hasMap: "https://maps.google.com/?cid=6718468685836985554",
+    sameAs: ["https://maps.google.com/?cid=6718468685836985554"],
     openingHoursSpecification: [
       {
         "@type": "OpeningHoursSpecification",
@@ -48,10 +48,15 @@ export default function StructuredData() {
     ],
   };
 
+  const website = {"@context":"https://schema.org","@type":"WebSite","@id":"https://arcreformastarragona.es/#website","url":"https://arcreformastarragona.es","name":"ARC | Reformas Tarragona","inLanguage":"es-ES","publisher":{"@id":"https://arcreformastarragona.es/#business"}};
+
   return (
+    <>
     <script
       type="application/ld+json"
       dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
     />
+    <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(website) }} />
+    </>
   );
 }

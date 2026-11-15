@@ -7,9 +7,9 @@ import BreadcrumbSchema from "@/components/BreadcrumbSchema";
 import ServiceSchema from "@/components/ServiceSchema";
 
 export const metadata: Metadata = {
-  title: "Reformas de Locales en Tarragona · Diseño y obra",
+  title: "Reformas de Locales en Tarragona",
   description:
-    "Reforma de locales comerciales y despachos en Tarragona: Rambla Nova, Eixample, Part Alta y polígono. Tramitación de licencia, accesibilidad y eficiencia energética.",
+    "Reforma de locales comerciales y despachos en Tarragona: Rambla Nova, Eixample, Part Alta y polígono.",
   alternates: { canonical: "/servicios/reformas-locales" },
   openGraph: {
     title: "Reformas de Locales en Tarragona | ARC Reformas",

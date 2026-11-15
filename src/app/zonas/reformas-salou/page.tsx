@@ -5,9 +5,9 @@ import CTAButtons from "@/components/CTAButtons";
 import BreadcrumbSchema from "@/components/BreadcrumbSchema";
 
 export const metadata: Metadata = {
-  title: "Reformas en Salou · Pisos urbanos y segundas residencias",
+  title: "Reformas en Salou",
   description:
-    "Reformas en Salou para propietarios con base en Tarragona: pisos del eje C-31, segundas residencias y viviendas heredadas en Cap Salou y Capellans. Memoria documentada.",
+    "Reformas en Salou para propietarios con base en Tarragona: pisos del eje C-31, segundas residencias y viviendas heredadas en Cap Salou y Capellans.",
   alternates: { canonical: "/zonas/reformas-salou" },
   openGraph: {
     title: "Reformas en Salou | ARC Reformas Tarragona",

@@ -4,7 +4,7 @@ import Link from "next/link";
 import BreadcrumbSchema from "@/components/BreadcrumbSchema";
 
 export const metadata: Metadata = {
-  title: "Blog de reformas en Tarragona · Consejos y guías técnicas",
+  title: "Blog de reformas en Tarragona",
   description:
     "Artículos prácticos sobre cómo reformar pisos del Eixample tarraconense, fincas catalogadas de la Part Alta y ayudas a la rehabilitación en el Tarragonès.",
   alternates: { canonical: "/blog" },

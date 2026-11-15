@@ -25,11 +25,11 @@ export const metadata: Metadata = {
     canonical: "/",
   },
   title: {
-    default: "Reformas en Tarragona · Cocinas, Baños, Pisos y Locales | ARC",
-    template: "%s | ARC Reformas Tarragona",
+    default: "Reformas en Tarragona · Cocinas, Baños y Pisos | ARC",
+    template: "%s | ARC Reformas",
   },
   description:
-    "Empresa de reformas integrales en Tarragona. Trabajamos en edificios del centro histórico, pisos del Eixample y bloques modernos. Presupuesto sin compromiso. Llámanos al 877 278 109.",
+    "Reformas integrales en Tarragona: pisos del Eixample, fincas de la Part Alta y bloques modernos. Presupuesto sin compromiso: 877 278 109.",
   authors: [{ name: "ARC Reformas Tarragona" }],
   creator: "ARC Reformas Tarragona",
   publisher: "ARC Reformas Tarragona",

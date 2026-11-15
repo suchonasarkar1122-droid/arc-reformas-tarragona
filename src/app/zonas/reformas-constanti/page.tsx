@@ -5,7 +5,7 @@ import CTAButtons from "@/components/CTAButtons";
 import BreadcrumbSchema from "@/components/BreadcrumbSchema";
 
 export const metadata: Metadata = {
-  title: "Reformas en Constantí · Pisos heredados y casas con historia",
+  title: "Reformas en Constantí",
   description:
     "Reformas en Constantí centre y entorno de Centcelles. Pisos heredados, casas con elementos antiguos y bloques residenciales modernos. Sede en Tarragona capital.",
   alternates: { canonical: "/zonas/reformas-constanti" },

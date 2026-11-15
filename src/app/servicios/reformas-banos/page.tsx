@@ -7,9 +7,9 @@ import BreadcrumbSchema from "@/components/BreadcrumbSchema";
 import ServiceSchema from "@/components/ServiceSchema";
 
 export const metadata: Metadata = {
-  title: "Reformas de Baños en Tarragona · Plato de obra y mampara",
+  title: "Reformas de Baños en Tarragona",
   description:
-    "Reforma de baños en Tarragona. Sustitución de bañera por plato de obra, accesibilidad mejorada y soluciones para bajantes compartidos en fincas antiguas. 877 278 109.",
+    "Reforma de baños en Tarragona. Sustitución de bañera por plato de obra, accesibilidad mejorada y soluciones para bajantes compartidos en fincas antiguas.",
   alternates: { canonical: "/servicios/reformas-banos" },
   openGraph: {
     title: "Reformas de Baños en Tarragona | ARC Reformas",

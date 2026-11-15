@@ -4,9 +4,9 @@ import Link from "next/link";
 import BreadcrumbSchema from "@/components/BreadcrumbSchema";
 
 export const metadata: Metadata = {
-  title: "Reformar un edificio histórico en la Part Alta · Lo que hay que saber",
+  title: "Reformar un edificio histórico en la Part Alta",
   description:
-    "Cómo afrontar una reforma dentro del recinto romano de Tarragona. Trámites con patrimonio, materiales que respetan el carácter y obstáculos arqueológicos frecuentes.",
+    "Cómo afrontar una reforma dentro del recinto romano de Tarragona. Trámites con patrimonio, materiales que respetan el carácter y obstáculos arqueológicos.",
   alternates: { canonical: "/blog/reformar-edificio-historico-part-alta" },
   openGraph: {
     title: "Reformar un edificio histórico en la Part Alta de Tarragona",
