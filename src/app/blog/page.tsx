@@ -23,8 +23,8 @@ const posts = [
     title: "Humedades y condensación en pisos antiguos de Tarragona: qué hacer antes del invierno",
     excerpt:
       "Cómo distinguir condensación, filtración y capilaridad en fincas del Eixample, la Part Alta o el Serrallo, qué hábitos ayudan y qué obras la resuelven de raíz.",
-    image: "/images/dormitorio-piso-clasico-tarragona.webp",
-    imageAlt: "Dormitorio de piso antiguo en Tarragona con humedades por condensación",
+    image: "/images/blog/humedades-condensacion-pisos-antiguos-tarragona.webp",
+    imageAlt: "Humedades y condensación en pisos antiguos de Tarragona",
     date: "15 noviembre 2026",
     category: "Otoño e invierno",
   },
@@ -33,8 +33,8 @@ const posts = [
     title: "Cuánto cuesta reformar un piso en Tarragona en 2026",
     excerpt:
       "Rangos por metro cuadrado para pisos del Eixample, casa de pueblo de la Part Alta y bloques modernos. Desglose de partidas y consejos prácticos para que la inversión cuadre.",
-    image: "/images/reforma-piso-completo-tarragona.webp",
-    imageAlt: "Coste de reforma de piso en Tarragona en 2026",
+    image: "/images/blog/cuanto-cuesta-reformar-piso-tarragona.webp",
+    imageAlt: "Cuánto cuesta reformar un piso en Tarragona en 2026",
     date: "1 mayo 2026",
     category: "Guía de precios",
   },
@@ -43,8 +43,8 @@ const posts = [
     title: "Reformar un edificio histórico en la Part Alta: lo que hay que saber",
     excerpt:
       "Trabajar dentro del recinto romano implica trámites con patrimonio, servidumbres arqueológicas y materiales que dialoguen con la piedra original. Cómo afrontarlo sin sustos.",
-    image: "/images/cocina-clasica-part-alta-tarragona.webp",
-    imageAlt: "Reforma en edificio histórico de la Part Alta de Tarragona",
+    image: "/images/blog/reformar-edificio-historico-part-alta.webp",
+    imageAlt: "Reformar un edificio histórico en la Part Alta en Tarragona",
     date: "1 mayo 2026",
     category: "Patrimonio",
   },
@@ -53,8 +53,8 @@ const posts = [
     title: "Ayudas a la rehabilitación energética en el Tarragonès en 2026",
     excerpt:
       "Fondos Next Generation, programas autonómicos y subvenciones municipales para mejorar la eficiencia energética de tu vivienda. A qué obras aplican y cómo se tramitan.",
-    image: "/images/vivienda-rehabilitacion-energetica-tarragona.webp",
-    imageAlt: "Ayudas a la rehabilitación energética en Tarragona y comarca",
+    image: "/images/blog/ayudas-rehabilitacion-energetica-tarragones.webp",
+    imageAlt: "Ayudas a la rehabilitación energética en el Tarragonès en 2026 en Tarragona",
     date: "1 mayo 2026",
     category: "Ayudas y subvenciones",
   },

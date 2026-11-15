@@ -100,7 +100,7 @@ export default function Footer() {
                     <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z" />
                     <circle cx="12" cy="10" r="3" />
                   </svg>
-                  Carrer de la Reina Maria Cristina, 27, 43002 Tarragona
+                  Carrer de la Reina Maria Cristina, 33, 43002 Tarragona
                 </span>
               </div>
             </div>

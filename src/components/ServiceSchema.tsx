@@ -19,7 +19,7 @@ export default function ServiceSchema({ name, description, url, image }: Service
       telephone: "+34877278109",
       address: {
         "@type": "PostalAddress",
-        streetAddress: "Carrer de la Reina Maria Cristina, 27",
+        streetAddress: "Carrer de la Reina Maria Cristina, 33",
         addressLocality: "Tarragona",
         addressRegion: "Tarragona",
         postalCode: "43002",

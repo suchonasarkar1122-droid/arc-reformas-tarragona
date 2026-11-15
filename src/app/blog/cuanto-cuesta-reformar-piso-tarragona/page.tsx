@@ -14,7 +14,7 @@ export const metadata: Metadata = {
       "Guía actualizada de precios para reformar pisos en Tarragona. Rangos por m², partidas y consejos prácticos.",
     url: "/blog/cuanto-cuesta-reformar-piso-tarragona",
     type: "article",
-    images: ["/images/reforma-piso-completo-tarragona.webp"],
+    images: ["/images/blog/cuanto-cuesta-reformar-piso-tarragona.webp"],
   },
 };
 
@@ -28,7 +28,7 @@ const articleSchema = {
   dateModified: "2026-05-01",
   author: { "@type": "Organization", name: "ARC Reformas Tarragona" },
   publisher: { "@id": "https://arcreformastarragona.es/#business" },
-  image: "https://arcreformastarragona.es/images/reforma-piso-completo-tarragona.webp",
+  image: "https://arcreformastarragona.es/images/blog/cuanto-cuesta-reformar-piso-tarragona.webp",
   mainEntityOfPage: "https://arcreformastarragona.es/blog/cuanto-cuesta-reformar-piso-tarragona",
 };
 
@@ -50,8 +50,8 @@ export default function PostCuantoCuesta() {
       <article className="bg-beige">
         <div className="relative h-[360px] md:h-[460px] w-full overflow-hidden bg-dark">
           <Image
-            src="/images/reforma-piso-completo-tarragona.webp"
-            alt="Reforma de piso en el Eixample de Tarragona"
+            src="/images/blog/cuanto-cuesta-reformar-piso-tarragona.webp"
+            alt="Cuánto cuesta reformar un piso en Tarragona en 2026"
             fill
             className="object-cover opacity-50"
             priority

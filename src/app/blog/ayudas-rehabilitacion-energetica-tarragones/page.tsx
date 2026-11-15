@@ -14,7 +14,7 @@ export const metadata: Metadata = {
       "Qué subvenciones aplican a tu vivienda en Tarragona en 2026 y cómo se tramitan.",
     url: "/blog/ayudas-rehabilitacion-energetica-tarragones",
     type: "article",
-    images: ["/images/vivienda-rehabilitacion-energetica-tarragona.webp"],
+    images: ["/images/blog/ayudas-rehabilitacion-energetica-tarragones.webp"],
   },
 };
 
@@ -28,7 +28,7 @@ const articleSchema = {
   dateModified: "2026-05-01",
   author: { "@type": "Organization", name: "ARC Reformas Tarragona" },
   publisher: { "@id": "https://arcreformastarragona.es/#business" },
-  image: "https://arcreformastarragona.es/images/vivienda-rehabilitacion-energetica-tarragona.webp",
+  image: "https://arcreformastarragona.es/images/blog/ayudas-rehabilitacion-energetica-tarragones.webp",
   mainEntityOfPage: "https://arcreformastarragona.es/blog/ayudas-rehabilitacion-energetica-tarragones",
 };
 
@@ -50,8 +50,8 @@ export default function PostAyudas() {
       <article className="bg-beige">
         <div className="relative h-[360px] md:h-[460px] w-full overflow-hidden bg-dark">
           <Image
-            src="/images/vivienda-rehabilitacion-energetica-tarragona.webp"
-            alt="Ayudas a la rehabilitación energética en Tarragona"
+            src="/images/blog/ayudas-rehabilitacion-energetica-tarragones.webp"
+            alt="Ayudas a la rehabilitación energética en el Tarragonès en 2026 en Tarragona"
             fill
             className="object-cover opacity-50"
             priority

@@ -14,7 +14,7 @@ export const metadata: Metadata = {
       "Qué tipo de humedad tienes, qué puedes hacer este invierno y qué obras la resuelven de raíz en fincas antiguas de Tarragona.",
     url: "/blog/humedades-condensacion-pisos-antiguos-tarragona",
     type: "article",
-    images: ["/images/dormitorio-piso-clasico-tarragona.webp"],
+    images: ["/images/blog/humedades-condensacion-pisos-antiguos-tarragona.webp"],
   },
 };
 
@@ -28,7 +28,7 @@ const articleSchema = {
   dateModified: "2026-11-15",
   author: { "@type": "Organization", name: "ARC Reformas Tarragona" },
   publisher: { "@id": "https://arcreformastarragona.es/#business" },
-  image: "https://arcreformastarragona.es/images/dormitorio-piso-clasico-tarragona.webp",
+  image: "https://arcreformastarragona.es/images/blog/humedades-condensacion-pisos-antiguos-tarragona.webp",
   mainEntityOfPage: "https://arcreformastarragona.es/blog/humedades-condensacion-pisos-antiguos-tarragona",
 };
 
@@ -52,8 +52,8 @@ export default function PostHumedades() {
       <article className="bg-beige">
         <div className="relative h-[360px] md:h-[460px] w-full overflow-hidden bg-dark">
           <Image
-            src="/images/dormitorio-piso-clasico-tarragona.webp"
-            alt="Dormitorio de un piso antiguo de Tarragona preparado para el invierno"
+            src="/images/blog/humedades-condensacion-pisos-antiguos-tarragona.webp"
+            alt="Humedades y condensación en pisos antiguos de Tarragona"
             fill
             className="object-cover opacity-50"
             priority

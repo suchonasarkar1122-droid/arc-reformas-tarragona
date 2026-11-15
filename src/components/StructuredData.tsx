@@ -13,7 +13,7 @@ export default function StructuredData() {
     priceRange: "€€",
     address: {
       "@type": "PostalAddress",
-      streetAddress: "Carrer de la Reina Maria Cristina, 27",
+      streetAddress: "Carrer de la Reina Maria Cristina, 33",
       addressLocality: "Tarragona",
       addressRegion: "Tarragona",
       postalCode: "43002",

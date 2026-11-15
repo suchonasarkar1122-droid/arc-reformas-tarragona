@@ -123,7 +123,7 @@ export default function ContactoPage() {
                   <h3 className="font-display font-bold text-dark text-base">Dirección</h3>
                 </div>
                 <p className="font-display text-dark text-base font-medium">
-                  Carrer de la Reina Maria Cristina, 27
+                  Carrer de la Reina Maria Cristina, 33
                 </p>
                 <p className="text-subtitle text-sm">43002 Tarragona, Tarragonès</p>
               </div>

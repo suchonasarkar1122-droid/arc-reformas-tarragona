@@ -14,7 +14,7 @@ export const metadata: Metadata = {
       "Patrimonio, materiales, trámites y plazos: lo que hay que saber antes de reformar dentro del recinto romano.",
     url: "/blog/reformar-edificio-historico-part-alta",
     type: "article",
-    images: ["/images/cocina-clasica-part-alta-tarragona.webp"],
+    images: ["/images/blog/reformar-edificio-historico-part-alta.webp"],
   },
 };
 
@@ -28,7 +28,7 @@ const articleSchema = {
   dateModified: "2026-05-01",
   author: { "@type": "Organization", name: "ARC Reformas Tarragona" },
   publisher: { "@id": "https://arcreformastarragona.es/#business" },
-  image: "https://arcreformastarragona.es/images/cocina-clasica-part-alta-tarragona.webp",
+  image: "https://arcreformastarragona.es/images/blog/reformar-edificio-historico-part-alta.webp",
   mainEntityOfPage: "https://arcreformastarragona.es/blog/reformar-edificio-historico-part-alta",
 };
 
@@ -50,8 +50,8 @@ export default function PostPartAlta() {
       <article className="bg-beige">
         <div className="relative h-[360px] md:h-[460px] w-full overflow-hidden bg-dark">
           <Image
-            src="/images/cocina-clasica-part-alta-tarragona.webp"
-            alt="Reforma en edificio histórico de la Part Alta de Tarragona"
+            src="/images/blog/reformar-edificio-historico-part-alta.webp"
+            alt="Reformar un edificio histórico en la Part Alta en Tarragona"
             fill
             className="object-cover opacity-50"
             priority
