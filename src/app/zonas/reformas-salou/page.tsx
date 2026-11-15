@@ -87,6 +87,17 @@ export default function ZonaSalouPage() {
         </div>
       </section>
 
+      <section className="bg-white px-5 py-16 md:py-24">
+        <div className="mx-auto max-w-[900px]">
+          <p className="font-body text-accent text-sm uppercase tracking-[0.2em] font-bold mb-3">Particularidades</p>
+          <h2 className="font-display font-extrabold text-[28px] md:text-[40px] text-dark leading-[1.1] mb-6">Qué tiene de particular reformar un piso en Salou</h2>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">La primera diferencia con la capital es el ambiente marino. En los edificios próximos al paseo Jaume I y a las playas de Llevant y Ponent, el salitre ataca barandillas, persianas y carpinterías de aluminio antiguas, y en los pisos que pasan meses cerrados la humedad se instala en armarios y dormitorios. Por eso en Salou proponemos aluminio con lacado apto para ambiente marino, tornillería inoxidable y, en las viviendas que no se ocupan todo el año, una ventilación mínima que funcione aunque no haya nadie.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">La segunda diferencia es el calendario. Muchas comunidades de Salou restringen las obras ruidosas en temporada alta, y en verano descargar material y aparcar cerca del portal se complica mucho. Planificamos demolición y albañilería entre otoño y primavera y dejamos para el final los trabajos silenciosos, como pintura o montaje de muebles.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Muchos propietarios que viven en Tarragona no pueden estar pendientes de la obra a diario. Por eso enviamos un registro fotográfico semanal y concentramos en pocas visitas las decisiones que requieren tu presencia, como la elección de cerámica o la posición de los muebles de cocina. Las gestiones con el Ajuntament de Salou, ya sea comunicación previa o licencia según el alcance, y con el administrador de la finca las tramitamos nosotros.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Las intervenciones más habituales son la <Link href="/servicios/reformas-integrales" className="text-accent font-semibold underline underline-offset-2">reforma integral</Link> de pisos de los años ochenta, la renovación de <Link href="/servicios/reformas-cocinas" className="text-accent font-semibold underline underline-offset-2">cocinas</Link> abiertas al salón y el cambio de bañera por ducha. Si tu piso está en un bloque con más de cuarenta años, revisa también la instalación eléctrica: muchas no tienen protección diferenciada por circuitos ni toma de tierra en todas las estancias.</p>
+        </div>
+      </section>
+
       <section className="bg-dark px-5 py-16 md:py-24">
         <div className="mx-auto max-w-[1100px] text-center mb-10">
           <p className="font-body text-accent text-sm uppercase tracking-[0.2em] font-bold mb-3">Servicios disponibles</p>

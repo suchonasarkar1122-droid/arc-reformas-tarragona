@@ -19,6 +19,16 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: "humedades-condensacion-pisos-antiguos-tarragona",
+    title: "Humedades y condensación en pisos antiguos de Tarragona: qué hacer antes del invierno",
+    excerpt:
+      "Cómo distinguir condensación, filtración y capilaridad en fincas del Eixample, la Part Alta o el Serrallo, qué hábitos ayudan y qué obras la resuelven de raíz.",
+    image: "/images/dormitorio-piso-clasico-tarragona.webp",
+    imageAlt: "Dormitorio de piso antiguo en Tarragona con humedades por condensación",
+    date: "15 noviembre 2026",
+    category: "Otoño e invierno",
+  },
+  {
     slug: "cuanto-cuesta-reformar-piso-tarragona",
     title: "Cuánto cuesta reformar un piso en Tarragona en 2026",
     excerpt:

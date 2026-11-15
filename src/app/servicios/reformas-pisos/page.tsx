@@ -114,6 +114,17 @@ export default function ReformasPisosPage() {
         </div>
       </section>
 
+      <section className="bg-white px-5 py-16 md:py-24">
+        <div className="mx-auto max-w-[900px]">
+          <p className="font-body text-accent text-sm uppercase tracking-[0.2em] font-bold mb-3">Según el uso</p>
+          <h2 className="font-display font-extrabold text-[28px] md:text-[40px] text-dark leading-[1.1] mb-6">Piso heredado, de alquiler o para vivir: cada caso pide otra reforma</h2>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Buena parte de los pisos que reformamos en Tarragona llegan por herencia. Suelen ser viviendas de 70 a 100 m² en el Eixample, en el entorno de la Rambla Nova o en Sant Pere i Sant Pau, con terrazo original, puertas de sapelli y una instalación eléctrica de dos o tres circuitos. La primera conversación es decidir qué se conserva: un terrazo en buen estado se puede pulir y abrillantar, y muchas puertas macizas se recuperan con un lijado y un lacado nuevo.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Si el piso va a alquilarse, priorizamos resistencia y mantenimiento sencillo: porcelánico en suelos, pintura lavable, cocina con electrodomésticos estándar y un baño sin elementos delicados. También recordamos que para alquilar hace falta la cédula de habitabilidad vigente y el certificado de eficiencia energética, así que dejamos preparada la documentación técnica que pedirá el certificador al terminar la obra.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Si vas a vivir en él, la reforma se piensa a largo plazo: aislamiento en los muros que dan al patio, ventanas con rotura de puente térmico y climatización por estancias. En pisos orientados al norte o con patio de luces estrecho, el invierno trae condensaciones en los dormitorios; lo explicamos con detalle en el artículo sobre <Link href="/blog/humedades-condensacion-pisos-antiguos-tarragona" className="text-accent font-semibold underline underline-offset-2">humedades y condensación en pisos antiguos de Tarragona</Link>.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Muchas veces el piso no necesita una obra total, sino actuaciones bien elegidas. Cambiar la bañera por ducha, una de las <Link href="/servicios/reformas-banos" className="text-accent font-semibold underline underline-offset-2">reformas de baños</Link> que más nos piden, y renovar la cocina puede transformar la vivienda sin tocar el resto. Cuando hay que redistribuir, mover bajantes y rehacer toda la electricidad, entonces sí hablamos de una <Link href="/servicios/reformas-integrales" className="text-accent font-semibold underline underline-offset-2">reforma integral</Link> con dirección técnica.</p>
+        </div>
+      </section>
+
       <section className="bg-beige px-5 py-20 md:py-28">
         <div className="mx-auto max-w-[1100px]">
           <div className="text-center mb-14">

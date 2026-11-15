@@ -125,9 +125,21 @@ export default function PostCuantoCuesta() {
             <li>Pide tres memorias valoradas y compara partida a partida, no totales.</li>
           </ul>
 
+          <h2 className="font-display font-extrabold text-2xl text-dark mt-10 mb-4">Costes que no aparecen en el presupuesto de obra</h2>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-6">Además de las partidas de obra, hay gastos que conviene prever desde el principio para que el total no se desvíe:</p>
+          <ul className="font-body text-subtitle text-base leading-relaxed space-y-2 mb-6 list-disc pl-6">
+            <li><strong className="text-dark">Impuesto y tasas municipales:</strong> el Ajuntament de Tarragona cobra el impuesto sobre construcciones y la tasa de tramitación, calculados sobre el presupuesto de ejecución. Su importe depende del tipo de trámite.</li>
+            <li><strong className="text-dark">Ocupación de vía pública:</strong> el contenedor de escombros o el montacargas en la acera necesitan permiso y pagan tasa por días.</li>
+            <li><strong className="text-dark">Honorarios técnicos:</strong> si la obra requiere proyecto o dirección facultativa, por ejemplo al tocar estructura, hay que sumarlos.</li>
+            <li><strong className="text-dark">Certificados finales:</strong> boletín eléctrico, certificado energético y, si vas a alquilar o vender, la cédula de habitabilidad.</li>
+            <li><strong className="text-dark">Mobiliario y electrodomésticos</strong> que no estén incluidos en la memoria valorada.</li>
+          </ul>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-6">La forma más sencilla de evitar sorpresas es pedir que la memoria indique con claridad qué incluye y qué no. En nuestras <Link href="/servicios/reformas-integrales" className="text-accent font-semibold underline underline-offset-2">reformas integrales</Link> esos conceptos aparecen en un apartado propio, separados de las partidas de obra.</p>
+          <h2 className="font-display font-extrabold text-2xl text-dark mt-10 mb-4">¿Y si solo quiero reformar una parte?</h2>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-6">No todas las viviendas necesitan una obra completa. Si las instalaciones generales están en buen estado, empezar por las estancias húmedas suele dar el mayor retorno: consulta cómo planteamos las <Link href="/servicios/reformas-banos" className="text-accent font-semibold underline underline-offset-2">reformas de baños</Link> y las <Link href="/servicios/reformas-cocinas" className="text-accent font-semibold underline underline-offset-2">reformas de cocinas</Link> en fincas del Eixample y la Part Alta. Si el piso está fuera de la ciudad, revisa las <Link href="/zonas" className="text-accent font-semibold underline underline-offset-2">zonas donde trabajamos</Link>; los rangos de este artículo sirven también como referencia en los municipios cercanos.</p>
           <div className="bg-accent rounded-2xl p-8 mt-12 text-white">
             <h3 className="font-display font-extrabold text-2xl mb-3">¿Necesitas una memoria valorada para tu piso?</h3>
-            <p className="text-white/90 mb-5 leading-relaxed">Visita técnica sin coste y memoria detallada en 48 horas. Trabajamos en Tarragona ciudad, Reus, Vila-seca, Salou, La Canonja y Constantí.</p>
+            <p className="text-white/90 mb-5 leading-relaxed">Visita técnica sin coste y memoria detallada en 48 horas. Trabajamos en Tarragona ciudad, Salou, La Canonja y Constantí.</p>
             <Link href="/contacto" className="inline-flex items-center gap-2 bg-dark text-white px-6 py-3 rounded-full font-display font-bold text-sm hover:bg-dark/80 transition-colors">
               Solicitar valoración <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M5 12h14M12 5l7 7-7 7" /></svg>
             </Link>

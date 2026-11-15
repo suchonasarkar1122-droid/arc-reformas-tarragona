@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title: "Política de Privacidad",
   description: "Política de privacidad de ARC Reformas Tarragona. Tratamiento de datos personales conforme al RGPD y la LOPDGDD.",
   alternates: { canonical: "/politica-privacidad" },
-  robots: { index: true, follow: true },
+  robots: { index: false, follow: true },
 };
 
 export default function PoliticaPrivacidadPage() {

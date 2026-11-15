@@ -112,6 +112,17 @@ export default function ReformasCocinasPage() {
         </div>
       </section>
 
+      <section className="bg-white px-5 py-16 md:py-24">
+        <div className="mx-auto max-w-[900px]">
+          <p className="font-body text-accent text-sm uppercase tracking-[0.2em] font-bold mb-3">Antes de diseñar</p>
+          <h2 className="font-display font-extrabold text-[28px] md:text-[40px] text-dark leading-[1.1] mb-6">Lo que condiciona una cocina en un piso tarraconense</h2>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">En la mayoría de pisos del Eixample y de Sant Pere i Sant Pau la cocina da a la galería o a un patio de luces, y esa orientación lo decide casi todo: dónde puede ir la campana, cuánta luz natural queda si cerramos con muebles altos y por dónde sale el humo. Cuando no existe salida de humos o termina en el propio patio, buscamos un conducto hasta cubierta si la comunidad lo autoriza; si no es posible, recurrimos a campanas de recirculación con filtro de carbón, que hoy dan un resultado razonable con un mantenimiento sencillo.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">La instalación de gas es otro punto a revisar. Muchas cocinas de los años setenta conservan la bombona de butano en la galería o una instalación de gas natural antigua. Si pasas a placa de inducción, conviene comprobar la potencia contratada y, con frecuencia, ampliar la derivación individual; lo resolvemos junto al boletín eléctrico. Si mantienes el gas, el instalador autorizado hace la prueba de estanqueidad y emite el certificado antes de montar los muebles.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Unir cocina y salón es la petición estrella, pero en fincas con muros de carga de ladrillo macizo no siempre se puede abrir del todo. En esos casos proponemos un hueco con dintel metálico calculado por el técnico, o una cristalera fija que separa olores sin quitar luz. En las casas de pueblo de <Link href="/zonas/reformas-constanti" className="text-accent font-semibold underline underline-offset-2">Constantí</Link> y del centro de La Canonja la cocina suele estar en planta baja, junto al patio trasero, y allí el reto es la humedad que sube por los muros más que la falta de espacio.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Si además de la cocina vas a cambiar suelos o instalaciones en toda la vivienda, mira cómo trabajamos las <Link href="/servicios/reformas-integrales" className="text-accent font-semibold underline underline-offset-2">reformas integrales en Tarragona</Link>: hacer la cocina sola y al año siguiente el resto obliga a repetir protecciones, contenedor y trámites.</p>
+        </div>
+      </section>
+
       <section className="bg-beige px-5 py-20 md:py-28">
         <div className="mx-auto max-w-[1100px]">
           <div className="text-center mb-14">

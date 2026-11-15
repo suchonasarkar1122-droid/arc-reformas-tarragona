@@ -7,7 +7,7 @@ const CTAForm = dynamic(() => import("@/components/CTAForm"));
 export const metadata: Metadata = {
   title: "Contacto y valoración técnica",
   description:
-    "Visita técnica sin coste para tu reforma en Tarragona, Reus, Vila-seca, Salou, La Canonja o Constantí. Llámanos al 877 278 109 o escríbenos.",
+    "Visita técnica sin coste para tu reforma en Tarragona, Salou, La Canonja o Constantí. Llámanos al 877 278 109 o escríbenos.",
   alternates: { canonical: "/contacto" },
   openGraph: {
     title: "Contacto · ARC Reformas Tarragona",

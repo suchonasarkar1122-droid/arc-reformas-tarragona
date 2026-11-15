@@ -28,8 +28,6 @@ export default function ServiceSchema({ name, description, url, image }: Service
     },
     areaServed: [
       { "@type": "City", name: "Tarragona" },
-      { "@type": "City", name: "Reus" },
-      { "@type": "City", name: "Vila-seca" },
       { "@type": "City", name: "Salou" },
       { "@type": "City", name: "La Canonja" },
       { "@type": "City", name: "Constantí" },

@@ -137,6 +137,17 @@ export default function ServiciosPage() {
         </div>
       </section>
 
+      <section className="bg-white px-5 py-16 md:py-24">
+        <div className="mx-auto max-w-[900px]">
+          <p className="font-body text-accent text-sm uppercase tracking-[0.2em] font-bold mb-3">Cómo elegir</p>
+          <h2 className="font-display font-extrabold text-[28px] md:text-[40px] text-dark leading-[1.1] mb-6">Qué tipo de reforma necesita tu vivienda</h2>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">No siempre está claro si lo que necesitas es una reforma de baño, una de piso o una integral. La diferencia práctica está en cuánto se tocan las instalaciones y la distribución. Si solo cambias acabados de una estancia y mantienes tuberías y cableado, es una actuación parcial. Si se rehacen la electricidad y la fontanería de toda la vivienda, aunque no se muevan tabiques, conviene plantearlo como reforma de piso. Y cuando además se redistribuye, se refuerza estructura o se tramita licencia, hablamos de una reforma integral con dirección técnica.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">En <Link href="/servicios/reformas-banos" className="text-accent font-semibold underline underline-offset-2">reformas de baños</Link> y <Link href="/servicios/reformas-cocinas" className="text-accent font-semibold underline underline-offset-2">reformas de cocinas</Link> el plazo es corto y la vivienda puede seguir habitada con algunas molestias. En <Link href="/servicios/reformas-pisos" className="text-accent font-semibold underline underline-offset-2">reformas de pisos</Link> y <Link href="/servicios/reformas-integrales" className="text-accent font-semibold underline underline-offset-2">reformas integrales</Link> recomendamos que la casa quede vacía durante la obra. Para negocios, las <Link href="/servicios/reformas-locales" className="text-accent font-semibold underline underline-offset-2">reformas de locales</Link> incluyen además la parte de actividad, que muchas veces marca el calendario más que la propia obra.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">La ciudad también condiciona la elección. En la Part Alta, cualquier cambio visible desde la calle pasa por los criterios de protección del casco antiguo. En el Eixample, las comunidades suelen pedir que se presente el alcance de la obra al administrador antes de empezar. En barrios de bloque como Sant Pere i Sant Pau, Torreforta o Bonavista, el factor decisivo suele ser el estado de bajantes y montantes comunes. Y en el Serrallo y la franja costera de Llevant, la humedad y el salitre obligan a escoger con más cuidado los materiales exteriores.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Si dudas, lo más práctico es pedir una visita: con la vivienda delante te proponemos el alcance mínimo que resuelve lo que te preocupa y, por separado, lo que tendría sentido hacer si el presupuesto lo permite. Así decides con números y no a ciegas. También puedes consultar las <Link href="/zonas" className="text-accent font-semibold underline underline-offset-2">zonas donde trabajamos</Link> fuera de Tarragona ciudad.</p>
+        </div>
+      </section>
+
       {/* ============ DIFERENCIAS ============ */}
       <section className="bg-dark px-5 py-20 md:py-28">
         <div className="mx-auto max-w-[1200px] text-center">

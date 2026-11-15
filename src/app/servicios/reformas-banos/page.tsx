@@ -112,6 +112,17 @@ export default function ReformasBanosPage() {
         </div>
       </section>
 
+      <section className="bg-white px-5 py-16 md:py-24">
+        <div className="mx-auto max-w-[900px]">
+          <p className="font-body text-accent text-sm uppercase tracking-[0.2em] font-bold mb-3">Antes de picar</p>
+          <h2 className="font-display font-extrabold text-[28px] md:text-[40px] text-dark leading-[1.1] mb-6">Cómo planteamos un baño en una finca de Tarragona</h2>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Lo primero que miramos en la visita no es el azulejo, sino por dónde baja el agua. En los edificios del Eixample levantados entre los años cincuenta y setenta, el bajante suele compartir patinillo con la cocina y atraviesa el forjado con un injerto de fibrocemento o de fundición. En la Part Alta es frecuente encontrar baños añadidos a posteriori, encajados en lo que fue una alcoba o colgados sobre un patio de luces, con desagües largos y poca pendiente. Saberlo antes de presupuestar evita que el plato quede a una altura incómoda o que haya que levantar el suelo del pasillo a mitad de obra.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">El segundo punto es la ventilación. Muchos baños interiores de Sant Pere i Sant Pau o de Torreforta solo cuentan con un conducto comunitario que tira poco, y en invierno el vapor acaba condensando en el techo y en las juntas. Por eso proponemos casi siempre un extractor con temporizador o higrostato conectado al conducto existente y pintura antimoho en el techo. Si en tu piso ya ves manchas negras en esquinas o detrás de los muebles, te interesa leer nuestra guía sobre <Link href="/blog/humedades-condensacion-pisos-antiguos-tarragona" className="text-accent font-semibold underline underline-offset-2">humedades y condensación en pisos antiguos de Tarragona</Link> antes de elegir acabados.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">En cuanto a materiales, el agua de la zona deja bastante cal en mamparas y grifos. Recomendamos vidrio con tratamiento antical, grifería con aireadores fáciles de desmontar y juntas epoxi en el plato, que se limpian mejor que las cementosas y no ennegrecen. Si el baño forma parte de algo mayor, como cambiar también la cocina o redistribuir dormitorios, conviene coordinarlo dentro de una <Link href="/servicios/reformas-pisos" className="text-accent font-semibold underline underline-offset-2">reforma de piso completa</Link> para abrir rozas una sola vez y pedir un único permiso.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Hacemos baños en toda la ciudad y también en municipios cercanos como <Link href="/zonas/reformas-la-canonja" className="text-accent font-semibold underline underline-offset-2">La Canonja</Link>, donde abundan las casas de pueblo con el baño en la planta alta y forjados de vigueta que hay que revisar antes de cargar peso con un plato de obra y nuevos revestimientos.</p>
+        </div>
+      </section>
+
       <section className="bg-beige px-5 py-20 md:py-28">
         <div className="mx-auto max-w-[1100px]">
           <div className="text-center mb-14">

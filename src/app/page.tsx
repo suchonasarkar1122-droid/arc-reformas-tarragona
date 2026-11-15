@@ -108,8 +108,8 @@ const faqs = [
     a: "Asistimos a la junta si hace falta, presentamos un escrito formal con afecciones a elementos comunes (bajantes, fachada, patio interior) y mantenemos al administrador informado de cada hito. La obra se planifica para minimizar molestias en horarios y accesos.",
   },
   {
-    q: "¿Atendéis en Reus, Vila-seca, Salou, La Canonja y Constantí?",
-    a: "Sí. Cubrimos toda la conurbación de Tarragona y el Tarragonès con el mismo equipo. La proximidad nos permite resolver imprevistos sin cargar costes de desplazamiento al cliente. Para obras en La Pineda, Salou centro o Reus capital la respuesta es inmediata.",
+    q: "¿Atendéis en Salou, La Canonja y Constantí?",
+    a: "Sí. Cubrimos toda la conurbación de Tarragona y el Tarragonès con el mismo equipo. La proximidad nos permite resolver imprevistos sin cargar costes de desplazamiento al cliente. Para obras en Salou, La Canonja o Constantí la respuesta es inmediata.",
   },
   {
     q: "¿Incluye la oferta la gestión de licencias y la limpieza final?",

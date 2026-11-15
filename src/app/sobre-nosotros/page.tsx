@@ -94,7 +94,7 @@ export default function SobreNosotrosPage() {
               </p>
               <div className="w-16 h-[3px] bg-accent rounded-full" />
               <p className="font-body text-subtitle text-base leading-relaxed">
-                ARC arrancó hace más de quince años en una ciudad con dos mil de historia. La primera obra fue un piso del Eixample con galería cerrada y bajante de fundición; la última, una vivienda dentro del recinto romano con servidumbres arqueológicas. Entre medias, más de cuarenta comunidades de propietarios, decenas de fincas de Sant Pere i Sant Pau y obras puntuales en Reus, Salou y Vila-seca.
+                ARC arrancó hace más de quince años en una ciudad con dos mil de historia. La primera obra fue un piso del Eixample con galería cerrada y bajante de fundición; la última, una vivienda dentro del recinto romano con servidumbres arqueológicas. Entre medias, más de cuarenta comunidades de propietarios, decenas de fincas de Sant Pere i Sant Pau y obras puntuales en municipios cercanos del Tarragonès.
               </p>
               <p className="font-body text-subtitle text-base leading-relaxed">
                 La sede en la calle Reina Maria Cristina no es casual. Estar en pleno Eixample nos permite acudir a cualquier finca del centro histórico o de la zona moderna en pocos minutos. La proximidad cuenta cuando un imprevisto en obra exige decidir sobre el terreno.
@@ -213,6 +213,17 @@ export default function SobreNosotrosPage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      <section className="bg-beige px-5 py-16 md:py-24">
+        <div className="mx-auto max-w-[900px]">
+          <p className="font-body text-accent text-sm uppercase tracking-[0.2em] font-bold mb-3">Método</p>
+          <h2 className="font-display font-extrabold text-[28px] md:text-[40px] text-dark leading-[1.1] mb-6">Cómo trabajamos contigo, de la primera llamada a la entrega</h2>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">La primera conversación suele ser por teléfono o por el formulario: nos cuentas qué quieres cambiar, en qué barrio está la vivienda y el año aproximado del edificio. Con eso ya sabemos si habrá que consultar el catálogo de patrimonio, si la finca tiene ascensor para subir material o si conviene revisar antes la instalación comunitaria.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Después viene la visita técnica. Medimos, fotografiamos y escuchamos cómo se usa la casa: quién cocina, si hay personas mayores, si alguien teletrabaja. Esa información pesa tanto como los metros cuadrados. Con ella redactamos una memoria valorada por partidas, con planos y calidades, que puedes comparar línea a línea con otras ofertas.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Al firmar recibes un calendario por semanas y el nombre del técnico que será tu interlocutor. Durante la obra te enviamos fotos del avance y te avisamos con antelación de las decisiones que tocan: color de juntas, posición de enchufes, altura del plato de ducha. Si aparece un imprevisto, como una viga dañada o un bajante roto dentro del muro, se valora y se aprueba contigo antes de seguir.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Al terminar revisamos estancia por estancia y te entregamos el dossier con boletines, garantías y fichas de materiales. Si quieres ver en qué tipo de proyectos se concreta todo esto, en la página de <Link href="/servicios" className="text-accent font-semibold underline underline-offset-2">servicios</Link> tienes cada línea de trabajo explicada, y en el blog hay guías como la de <Link href="/blog/reformar-edificio-historico-part-alta" className="text-accent font-semibold underline underline-offset-2">reformar un edificio histórico en la Part Alta</Link>.</p>
         </div>
       </section>
 

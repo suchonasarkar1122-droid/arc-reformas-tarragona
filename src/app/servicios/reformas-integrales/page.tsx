@@ -114,6 +114,17 @@ export default function ReformasIntegralesPage() {
         </div>
       </section>
 
+      <section className="bg-white px-5 py-16 md:py-24">
+        <div className="mx-auto max-w-[900px]">
+          <p className="font-body text-accent text-sm uppercase tracking-[0.2em] font-bold mb-3">Paso a paso</p>
+          <h2 className="font-display font-extrabold text-[28px] md:text-[40px] text-dark leading-[1.1] mb-6">Cómo se ordena una reforma integral en Tarragona</h2>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Una reforma integral bien llevada empieza mucho antes de la demolición. En la visita técnica medimos, fotografiamos las patologías visibles (fisuras, manchas de humedad, estado de las vigas) y comprobamos si el edificio figura en el catálogo municipal o está dentro del ámbito protegido de la Part Alta. Con esa información decidimos qué trámite corresponde ante el Ajuntament de Tarragona: una comunicación previa cuando la obra es interior y no afecta a estructura ni fachada, o una licencia cuando se tocan elementos estructurales, la fachada o la distribución de forma sustancial.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Con el permiso en marcha, organizamos la obra por fases: demolición y retirada a gestor autorizado, rozas e instalaciones, tabiquería, yesos, alicatados, carpintería y acabados. En pisos del Eixample con ascensor pequeño o sin ascensor, la logística de escombros y materiales pesa más de lo que parece, así que pedimos el permiso de ocupación de vía pública para el contenedor y pactamos horarios con la comunidad para no bloquear la escalera.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Cada barrio marca diferencias. En el Serrallo, junto al puerto, el salitre castiga la carpintería exterior y los herrajes, y elegimos aluminio con lacado apto para ambiente marino y tornillería inoxidable. En Torreforta y Bonavista abundan bloques de los años sesenta y setenta con instalaciones eléctricas sin toma de tierra en todas las estancias, que hay que rehacer por completo. En la Part Alta, los muros de piedra piden morteros de cal y pinturas transpirables para no encerrar la humedad.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Si estás valorando la inversión, nuestra guía sobre <Link href="/blog/cuanto-cuesta-reformar-piso-tarragona" className="text-accent font-semibold underline underline-offset-2">cuánto cuesta reformar un piso en Tarragona</Link> desglosa las partidas habituales. Y si la vivienda está fuera de la ciudad, también hacemos reformas integrales en <Link href="/zonas/reformas-salou" className="text-accent font-semibold underline underline-offset-2">Salou</Link> y en otros municipios cercanos del Tarragonès.</p>
+        </div>
+      </section>
+
       <section className="bg-beige px-5 py-20 md:py-28">
         <div className="mx-auto max-w-[1100px]">
           <div className="text-center mb-14">

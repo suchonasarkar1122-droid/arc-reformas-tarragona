@@ -69,7 +69,7 @@ export default function PostAyudas() {
 
         <div className="max-w-[820px] mx-auto px-5 py-16 md:py-20">
           <p className="font-body text-dark text-lg leading-relaxed mb-6">
-            Si tienes pensado mejorar la eficiencia energética de tu vivienda en Tarragona, Reus, Vila-seca o cualquier municipio del Tarragonès, en 2026 hay varias líneas de ayuda activas. Conviene conocerlas antes de redactar la memoria de obra: muchas exigen iniciar el trámite antes de empezar las obras, no después.
+            Si tienes pensado mejorar la eficiencia energética de tu vivienda en Tarragona, Salou, La Canonja, Constantí o cualquier otro municipio del Tarragonès, en 2026 hay varias líneas de ayuda activas. Conviene conocerlas antes de redactar la memoria de obra: muchas exigen iniciar el trámite antes de empezar las obras, no después.
           </p>
 
           <h2 className="font-display font-extrabold text-2xl text-dark mt-10 mb-4">Programas Next Generation EU para vivienda</h2>
@@ -105,7 +105,7 @@ export default function PostAyudas() {
             <li>Reducción del <strong className="text-dark">30% en la tasa de residuos</strong> para obras con plan de gestión de residuos certificado.</li>
           </ul>
           <p className="font-body text-subtitle text-base leading-relaxed mb-6">
-            En municipios próximos como Reus, Salou o Constantí existen bonificaciones similares con porcentajes que varían entre el 20% y el 50%. Conviene consultar la ordenanza fiscal de cada ayuntamiento antes de presentar licencia.
+            En los municipios próximos las ordenanzas fiscales también pueden prever bonificaciones, con porcentajes y requisitos distintos. Conviene consultar la ordenanza fiscal de cada ayuntamiento antes de presentar licencia.
           </p>
 
           <h2 className="font-display font-extrabold text-2xl text-dark mt-10 mb-4">Qué obras se subvencionan más fácilmente</h2>
@@ -117,6 +117,16 @@ export default function PostAyudas() {
             <li><strong className="text-dark">Aislamiento de cubierta</strong>, especialmente en edificios anteriores a 1979.</li>
           </ul>
 
+          <h2 className="font-display font-extrabold text-2xl text-dark mt-10 mb-4">Errores frecuentes al pedir una ayuda</h2>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-6">La mayoría de solicitudes que se pierden no fallan por la obra, sino por el papeleo. Estos son los tropiezos que más vemos:</p>
+          <ul className="font-body text-subtitle text-base leading-relaxed space-y-2 mb-6 list-disc pl-6">
+            <li><strong className="text-dark">Empezar la obra antes de solicitar.</strong> Muchas convocatorias exigen que la solicitud sea previa al inicio, y una factura anterior puede quedar fuera.</li>
+            <li><strong className="text-dark">No encargar el certificado energético previo.</strong> Sin la calificación de partida no se puede demostrar la mejora conseguida.</li>
+            <li><strong className="text-dark">Mezclar conceptos en una misma factura.</strong> Si la obra incluye partidas subvencionables y otras que no lo son, conviene facturarlas por separado desde el principio.</li>
+            <li><strong className="text-dark">En comunidades, no aprobar antes la actuación en junta</strong> con la mayoría que exige el Codi civil de Catalunya para obras en elementos comunes.</li>
+            <li><strong className="text-dark">Guardar mal la documentación gráfica.</strong> Las fotos del estado inicial son difíciles de rehacer cuando la obra ya ha empezado.</li>
+          </ul>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-6">En invierno es cuando más se nota la diferencia entre una vivienda bien aislada y otra que no lo está. Si tu casa tiene condensación en ventanas o paredes frías, empieza por nuestra guía de <Link href="/blog/humedades-condensacion-pisos-antiguos-tarragona" className="text-accent font-semibold underline underline-offset-2">humedades y condensación en pisos antiguos</Link>: te ayudará a saber qué parte de la obra es realmente energética y cuál es de acabados.</p>
           <h2 className="font-display font-extrabold text-2xl text-dark mt-10 mb-4">Cómo te acompañamos en la tramitación</h2>
           <p className="font-body text-subtitle text-base leading-relaxed mb-6">
             Trabajamos con técnicos colegiados especializados en certificación energética. Te facilitamos el certificado previo y posterior, la memoria justificada, las facturas en formato exigido por la convocatoria y la documentación gráfica del antes y después. Si la finca es comunitaria, asistimos a la junta para explicar el alcance y los plazos a los vecinos.

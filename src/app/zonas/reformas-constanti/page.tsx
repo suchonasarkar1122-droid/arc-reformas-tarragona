@@ -86,6 +86,17 @@ export default function ZonaConstantiPage() {
         </div>
       </section>
 
+      <section className="bg-white px-5 py-16 md:py-24">
+        <div className="mx-auto max-w-[900px]">
+          <p className="font-body text-accent text-sm uppercase tracking-[0.2em] font-bold mb-3">Del casco antiguo a las zonas nuevas</p>
+          <h2 className="font-display font-extrabold text-[28px] md:text-[40px] text-dark leading-[1.1] mb-6">Cómo son las reformas en Constantí</h2>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Constantí conserva un casco antiguo de calles estrechas y casas entre medianeras, y a su alrededor creció en las últimas décadas con bloques de pisos y viviendas unifamiliares. En su término está además la villa romana de Centcelles, que forma parte del conjunto arqueológico de Tarraco declarado Patrimonio de la Humanidad, aunque las viviendas que reformamos quedan fuera de ese recinto.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Los pisos heredados de los años setenta y ochenta son el trabajo más frecuente aquí. Suelen tener cocina cerrada, baño con bañera, terrazo y una instalación eléctrica que no soporta a la vez la inducción y la climatización. La reforma típica empieza por rehacer la electricidad con más circuitos y un cuadro nuevo, sigue con la fontanería en multicapa y termina con suelos y carpintería: es el esquema de una <Link href="/servicios/reformas-pisos" className="text-accent font-semibold underline underline-offset-2">reforma de piso</Link> completa, adaptado al presupuesto de cada familia.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">En las casas del casco antiguo aparecen problemas propios: humedad por capilaridad en planta baja, cubiertas de teja árabe con filtraciones y escaleras interiores estrechas que dificultan subir material. Lo valoramos en la visita técnica y, si la obra afecta a estructura o fachada, tramitamos la licencia correspondiente con el Ajuntament de Constantí; para obras interiores sin afección estructural suele bastar una comunicación previa.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">También atendemos negocios del municipio que necesitan adecuar un bajo comercial; en ese caso entra en juego la licencia de actividad y conviene ver cómo planteamos las <Link href="/servicios/reformas-locales" className="text-accent font-semibold underline underline-offset-2">reformas de locales</Link>. Constantí está a unos doce minutos de nuestra sede, así que podemos pasar por la obra con frecuencia sin coste añadido.</p>
+        </div>
+      </section>
+
       <section className="bg-dark px-5 py-16 md:py-24">
         <div className="mx-auto max-w-[1100px] text-center mb-10">
           <p className="font-body text-accent text-sm uppercase tracking-[0.2em] font-bold mb-3">Servicios disponibles</p>

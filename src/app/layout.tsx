@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     siteName: "ARC Reformas Tarragona",
     title: "Reformas en Tarragona · Cocinas, Baños, Pisos y Locales | ARC",
     description:
-      "Empresa de reformas integrales en Tarragona. Cocinas, baños, pisos y locales con presupuesto sin compromiso. Tarragona, Reus, Vila-seca, Salou y todo el Tarragonès.",
+      "Empresa de reformas integrales en Tarragona. Cocinas, baños, pisos y locales con presupuesto sin compromiso. Tarragona, Salou, La Canonja, Constantí y el Tarragonès.",
     images: [
       {
         url: "/images/hero-reforma-tarragona-clasica.webp",

@@ -115,6 +115,17 @@ export default function ReformasLocalesPage() {
         </div>
       </section>
 
+      <section className="bg-white px-5 py-16 md:py-24">
+        <div className="mx-auto max-w-[900px]">
+          <p className="font-body text-accent text-sm uppercase tracking-[0.2em] font-bold mb-3">Antes de firmar el alquiler</p>
+          <h2 className="font-display font-extrabold text-[28px] md:text-[40px] text-dark leading-[1.1] mb-6">Locales en el centro de Tarragona: qué revisar antes de comprometerte</h2>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Antes de firmar un contrato de arrendamiento merece la pena que un técnico vea el local. En la Rambla Nova y en las calles del Eixample muchos bajos tienen altillos construidos sin licencia, aseos sin ventilación o una acometida eléctrica insuficiente para hostelería. En la Part Alta, además, fachada y rótulos están sujetos a los criterios de protección del conjunto histórico, y no todos los usos encajan en cualquier planta baja.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">El trámite depende de la actividad. Para una oficina o un comercio sin riesgos especiales suele bastar una comunicación previa de actividad junto con la de obras; para un bar, un restaurante o un gimnasio entran en juego la normativa de prevención de incendios, la de ruido y, a menudo, un proyecto firmado por técnico competente. Consultar el uso permitido en el planeamiento antes de alquilar evita sorpresas caras.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">En hostelería, la extracción de humos es la gran partida: si la finca no tiene conducto hasta cubierta, hay que proyectarlo y negociar su paso con la comunidad de propietarios. También prestamos especial atención al aislamiento acústico del techo cuando hay viviendas encima, algo habitual en todo el Eixample y en el Serrallo, donde los bajos comerciales conviven con pisos desde la primera planta.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Fuera del centro trabajamos locales en <Link href="/zonas/reformas-constanti" className="text-accent font-semibold underline underline-offset-2">Constantí</Link> y en otros municipios cercanos con el mismo equipo. Y si en el mismo edificio tienes una vivienda que también necesita obra, puede tener sentido coordinarla como una <Link href="/servicios/reformas-pisos" className="text-accent font-semibold underline underline-offset-2">reforma de piso</Link> en paralelo para compartir permisos y logística.</p>
+        </div>
+      </section>
+
       <section className="bg-beige px-5 py-20 md:py-28">
         <div className="mx-auto max-w-[1100px]">
           <div className="text-center mb-14">
@@ -126,7 +137,7 @@ export default function ReformasLocalesPage() {
               { q: "¿Cuánto tarda reformar un local en Tarragona?", a: "Un local pequeño-medio (40-90 m²) con licencia ya concedida se entrega en 6-10 semanas. La obtención de licencia depende de la actividad: actividades inocuas pueden estar en 4-6 semanas, mientras que las clasificadas exigen 2-3 meses. Lo planificamos en paralelo siempre que se pueda." },
               { q: "¿Os encargáis también del proyecto técnico?", a: "Sí. Trabajamos con arquitectos y ingenieros colegiados para emitir el proyecto visado, certificados de instalaciones y comunicaciones previas o licencias según marque la ordenanza municipal de Tarragona." },
               { q: "¿Es necesario adaptar el local a accesibilidad?", a: "Sí, en la mayoría de casos. La normativa catalana exige acceso a ras (o rampa con pendiente máxima), aseo adaptado y radio de giro de 1,50 m en zonas de público. Si la finca antigua tiene impedimentos físicos, se puede solicitar exención justificada." },
-              { q: "¿Atendéis también locales en Reus, Salou o Vila-seca?", a: "Sí. La proximidad nos permite trabajar en toda la conurbación sin coste de desplazamiento añadido. Para reformas en Reus capital, Salou centre o La Pineda, los plazos son los mismos que para Tarragona ciudad." },
+              { q: "¿Atendéis también locales en Salou, La Canonja o Constantí?", a: "Sí. Están a menos de un cuarto de hora de nuestra sede y los trabajamos con el mismo equipo, sin coste de desplazamiento añadido. Lo que cambia es el trámite: cada ayuntamiento tiene su propia ordenanza de actividades y la revisamos antes de presupuestar." },
             ].map((f, i) => (
               <details key={i} className="group bg-white rounded-2xl p-6 border border-dark/5 [&_summary::-webkit-details-marker]:hidden">
                 <summary className="cursor-pointer flex items-start justify-between gap-4 font-display font-bold text-dark text-base md:text-lg leading-snug">

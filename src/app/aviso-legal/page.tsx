@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title: "Aviso Legal",
   description: "Aviso legal del sitio web de ARC Reformas Tarragona. Datos del titular, condiciones de uso y propiedad intelectual.",
   alternates: { canonical: "/aviso-legal" },
-  robots: { index: true, follow: true },
+  robots: { index: false, follow: true },
 };
 
 export default function AvisoLegalPage() {

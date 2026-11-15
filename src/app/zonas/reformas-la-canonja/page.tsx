@@ -86,6 +86,17 @@ export default function ZonaLaCanonjaPage() {
         </div>
       </section>
 
+      <section className="bg-white px-5 py-16 md:py-24">
+        <div className="mx-auto max-w-[900px]">
+          <p className="font-body text-accent text-sm uppercase tracking-[0.2em] font-bold mb-3">Tipologías</p>
+          <h2 className="font-display font-extrabold text-[28px] md:text-[40px] text-dark leading-[1.1] mb-6">Casas de pueblo, bloques y unifamiliares en La Canonja</h2>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">La Canonja es un municipio pequeño y compacto, independiente de Tarragona desde 2010, con un núcleo antiguo de calles estrechas y crecimientos más recientes hacia Mas dels Frares. Esa mezcla hace que en pocas calles convivan casas de dos y tres plantas con más de un siglo, bloques de los años setenta y unifamiliares de este siglo, cada una con su propia forma de reformar.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">En las casas de pueblo lo primero es revisar cubierta y forjados. Las vigas de madera pueden tener carcoma o pudrición en los apoyos, sobre todo donde ha habido goteras durante años. Si hace falta reforzar, el técnico calcula la solución (perfiles metálicos, capa de compresión o sustitución puntual) y se tramita como obra que afecta a estructura ante el Ajuntament de La Canonja. En planta baja, la humedad que sube por los muros se trata antes de revestir: si se tapa con cerámica, acaba saliendo por encima.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">La cercanía con el polígono petroquímico y con las vías rápidas hace que muchos vecinos pidan mejorar el aislamiento acústico en las fachadas más expuestas. Cambiar las ventanas por otras con vidrio laminado acústico y buena estanqueidad mejora a la vez el ruido y la factura de calefacción, y suele ser una de las partidas mejor valoradas al acabar la obra.</p>
+          <p className="font-body text-subtitle text-base leading-relaxed mb-4">Por la proximidad, en La Canonja es habitual combinar la <Link href="/servicios/reformas-banos" className="text-accent font-semibold underline underline-offset-2">reforma del baño</Link> con la de la cocina en una misma obra, o abordar una <Link href="/servicios/reformas-integrales" className="text-accent font-semibold underline underline-offset-2">reforma integral</Link> por fases si la familia sigue viviendo en la casa mientras trabajamos.</p>
+        </div>
+      </section>
+
       <section className="bg-dark px-5 py-16 md:py-24">
         <div className="mx-auto max-w-[1100px] text-center mb-10">
           <p className="font-body text-accent text-sm uppercase tracking-[0.2em] font-bold mb-3">Servicios disponibles</p>

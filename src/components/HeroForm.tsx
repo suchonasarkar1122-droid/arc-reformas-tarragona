@@ -84,8 +84,6 @@ export default function HeroForm() {
           <select name="locality" required className={selectClasses} defaultValue="">
             <option value="" disabled>Localidad *</option>
             <option value="Tarragona" className="text-dark">Tarragona</option>
-            <option value="Reus" className="text-dark">Reus</option>
-            <option value="Vila-seca" className="text-dark">Vila-seca</option>
             <option value="Salou" className="text-dark">Salou</option>
             <option value="La Canonja" className="text-dark">La Canonja</option>
             <option value="Constantí" className="text-dark">Constantí</option>
